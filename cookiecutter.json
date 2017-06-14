@@ -1,0 +1,9 @@
+{
+    "project_name": "project_name",
+    "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "author_name": "AlloriMD",
+    "description": "A short description of the project.",
+    "open_source_license": ["MIT", "BSD", "Not open source"],
+    "s3_bucket": "[OPTIONAL] Server directory for syncing data.",
+    "python_interpreter": "Python3.6+"
+}
