@@ -8,6 +8,6 @@
 .ipynb_checkpoints/
 
 # exclude data from source control (except codebooks)
-# data/final_tidy/
-# data/interim/
-# data/raw/
+data/final_tidy/
+data/interim/
+data/raw/
