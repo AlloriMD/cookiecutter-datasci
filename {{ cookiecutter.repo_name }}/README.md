@@ -22,7 +22,9 @@ Project Organization
     │   ├── interim        <- Intermediate data that has been transformed.
     │   └── raw            <- The original, immutable data dump.
     │
-    ├── protocols          <- Project protocols, documentation, including codebooks that I wrote.
+    ├── data
+    │   ├── protocols      <- Project protocols, documentation, including codebooks that I wrote.
+    │   └── sphinx         <- Default Sphinx project à la Read the Docs -- see https://github.com/rtfd/sphinx_rtd_theme and http://sphinx-doc.org.
     │
     ├── models             <- Trained and serialized models, model predictions, or model summaries
     │
